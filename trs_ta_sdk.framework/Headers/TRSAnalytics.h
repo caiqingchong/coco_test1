@@ -13,7 +13,7 @@ NS_ASSUME_NONNULL_BEGIN
 #pragma mark -- 必须调用方法
 /**
  SDK初始化方法 必须调用
- 
+ qwq
  @param appKey 分发的appKey
  @param appID 分发的appID
  @param staticURL 统计地址

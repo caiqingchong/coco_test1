@@ -10,17 +10,17 @@ Pod::Spec.new do |s|
 
 
   s.name         = "trs_ta_sdk_test"
-  s.version      = "1.1.0"
+  s.version      = "1.2.0"
   s.summary      = "test pod trs_ta_sdk."
 
   s.description  = 'test aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
 
-  s.homepage     = "https://github.com/Miridescen/coco_test1"
+  s.homepage     = "https://github.com/caiqingchong/coco_test1.git"
 
   s.license      = { :type => "MIT", :file => "LICENSE" }
 
 
-  s.author             = { "牟松" => "mu824810056@163.com" }
+  s.author             = { "张凯" => "2273034940@qq.com.com" }
 
 
   s.platform     = :ios, "8.0"
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "8.0"
 
 
-  s.source       = { :git => "https://github.com/Miridescen/coco_test1.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/caiqingchong/coco_test1.git", :tag => s.version }
 
 
 
